@@ -10,6 +10,10 @@ The following image is a screenshot of said webpage including a Filter search an
 
 ![screenshot](https://github.com/CodyMorin25/UFOs/blob/main/static/images/Screenshot%20of%20UFO%20website.png)
 
+The next image is a screenshot of the filters in action and how they should look in order to get a response. If not entered exactly right you not relvant info will show.
+
+![screenshot](https://github.com/CodyMorin25/UFOs/blob/main/static/images/filter%20search.png)
+
 ## Summary
 
 ### Drawback
